@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DrewMission5.props" />
+</Project>
